@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hey 👋, This is Rishav Sharma
+### About me 🤓
+A tech enthusiast with passion to solve problems and to make things.Proven skills in Data structures and Algorithms, C/C++, python programming, with experience in Computer vision applications, Adobe photoshop. I believe I am a versatile learner and can get going with any challenge thrown at me.
 
-<!--
-**rishav142k/rishav142k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Skills:** C++ | Python | DSA | 
 
-Here are some ideas to get you started:
+- ✍️ I am currently learning Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱  I am currently looking to collaborate on something DSA or CPP related
+
+<a href = https://www.linkedin.com/in/rishav-sharma-142k><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://github.com/rishav142k><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a>
+
+Competitive Programming Profiles
+---
+
+[![Badge](https://cp-logo.vercel.app/codechef/haikku)]
+[![Badge](https://cp-logo.vercel.app/codeforces/instantramen)]
+
+
+
