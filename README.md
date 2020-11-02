@@ -13,8 +13,8 @@ A tech enthusiast with passion to solve problems and to make things.Proven skill
 Competitive Programming Profiles
 ---
 
-[![Badge](https://cp-logo.vercel.app/codechef/haikku)]
-[![Badge](https://cp-logo.vercel.app/codeforces/instantramen)]
+[![Badge](https://cp-logo.vercel.app/codechef/haikku)](https://www.codechef.com/users/haikku)
+[![Badge](https://cp-logo.vercel.app/codeforces/instantramen)](https://codeforces.com/profile/instantramen)
 
 
 
